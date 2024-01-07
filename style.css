@@ -14,7 +14,7 @@ body{
 
 }
 .container{
-    background-color: #FFFFFF;
+    background: linear-gradient(45deg, #7d9842, transparent);;
     min-height: 40vh;
     max-width: 600px;
     margin: 5rem auto;
